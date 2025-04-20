@@ -1,0 +1,6 @@
+# file module
+node_modules
+# file build
+.next
+# file trash
+.DS_STORE
